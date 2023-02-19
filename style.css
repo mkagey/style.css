@@ -1,0 +1,51 @@
+body {
+		background-color: whitesmoke;
+}
+
+h1{
+		color: #FF69B4;
+		font-family: "Helvetica", "Verdana", "Arial", sans-serif; 
+		margin: 30px;
+		font-size: 30px;
+		text-decoration-line: underline;
+
+}
+h4{
+		color:mediumvioletred;
+		font-family: "Verdana";
+		margin: 30px;
+		font-size: 16px;
+		font-style: italic;
+}
+li {
+	color: mediumvioletred;
+	font-family: "Arial";
+	font-size: 18px;
+	margin: 30px;
+}
+p {
+	color: mediumvioletred;
+	font-family: "Arial";
+	margin: 35px;
+	font-size: 16px;
+	line-height: 1pt;
+	font-style: italic;
+}
+ul{
+	list-style-type: square;
+}
+img{
+	margin:30px;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
